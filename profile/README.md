@@ -57,6 +57,6 @@ cd Maestro && npm install && npm run dev
 
 <div align="center">
 
-**[AGPL-3.0 License](https://github.com/RunMaestro/Maestro/blob/main/LICENSE)** · Created by [@pedramamini](https://github.com/pedramamini)
+**[AGPL-3.0 License](https://github.com/RunMaestro/Maestro/blob/main/LICENSE)**
 
 </div>
