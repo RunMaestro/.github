@@ -52,11 +52,3 @@ cd Maestro && npm install && npm run dev
 | **Discord** | [Join the community](https://runmaestro.ai/discord) |
 | **Issues** | [Report bugs & request features](https://github.com/RunMaestro/Maestro/issues) |
 | **Contributing** | [CONTRIBUTING.md](https://github.com/RunMaestro/Maestro/blob/main/CONTRIBUTING.md) |
-
----
-
-<div align="center">
-
-**[AGPL-3.0 License](https://github.com/RunMaestro/Maestro/blob/main/LICENSE)**
-
-</div>
